@@ -1,0 +1,22 @@
+.add-trip-heading{
+    /* position: absolute; */
+width: 304px;
+height: 66px;
+
+
+font-family: Avenir;
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 66px;
+
+/* identical to box height */
+
+color: #000000;
+}
+
+.add-trip-container{
+    /* position: relative; */
+    left: 49px;
+    top: 150px;
+}

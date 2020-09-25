@@ -1,0 +1,58 @@
+.Payment {
+    font-family: Avenir;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-align: center;
+
+
+
+}
+
+.paymentdiv{
+    background: #FFFFFF;
+    border: 2px solid #B7B7B7;
+    box-sizing: border-box;
+    border-radius: 5px;
+    
+}
+
+
+.checkIn {
+
+height: 47px;
+left: 612px;
+top: 247px;
+}
+
+.checkIn.title{
+/* Date Trip */
+
+font-family: Avenir;
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+
+/* 26 August 2020 */
+.checkIn-tanggal{
+font-family: Avenir;
+font-style: normal;
+font-weight: normal;
+font-size: 140px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #959595;
+}

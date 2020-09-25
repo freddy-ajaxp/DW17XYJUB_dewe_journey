@@ -1,0 +1,23 @@
+.signup-btn{
+
+width: 100px;
+height: 30px;
+
+background: #2E86DE;
+border-radius: 5px;
+}
+.signup-text{
+  font-family: Product Sans;
+font-style: normal;
+font-size: px;
+line-height: 95px;
+color: #FFFFFF;
+/* font-weight: bold; */
+}
+.modal-atlas{
+    position: absolute;
+  }
+  .modal-leaf{
+    position: absolute;
+    right: 0; 
+  }

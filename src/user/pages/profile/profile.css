@@ -1,0 +1,25 @@
+.profile-name{
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 33px;
+    
+    /* identical to box height */
+    
+    color: #000000;
+    
+    
+}
+
+.profile-mail{
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    
+    /* identical to box height */
+    
+    color: #6C6C6C;
+}
