@@ -54,7 +54,7 @@ const Login = (props) => {
         variant="outline-light"
         onClick={handleShow}
         size="sm"
-        className="login"
+//         className="login"
       >
         Login
       </Button>
